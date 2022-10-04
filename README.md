@@ -2,7 +2,7 @@
 ## Project 1: 15-Puzzle
 ### Authors: Jaeha Huh, Chris Gao
 
-Program language : Python (jupyter Notebook)
+Program language : Python
 
 **Description:**
 
