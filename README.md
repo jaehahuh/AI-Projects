@@ -10,5 +10,9 @@ On a 4 x 4 board there are 15 tiles numbered from 1 to 15 and a blank position. 
 
 To solve 15 puzzle problems using Python, we implement the A* search algorithm with graph search.
 
-## Project2:
+## Project2: Futoshiki puzzle
 ### Author: Jaeha Huh
+
+Program language: C++
+
+**Description**
